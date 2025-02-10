@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## Most recent projects
 <div style="display:flex;flex-direction:row;overflow-y:scroll;">
   <a href="https://github.com/MariusWenk/Tempel-des-Schreckens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariusWenk&repo=Tempel-des-Schreckens" style="width:40%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariusWenk&repo=Tempel-des-Schreckens" style="width:50%"/>
   </a>
   <a href="https://github.com/MariusWenk/Scientific-Programming-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariusWenk&repo=Scientific-Programming-Python" style="width:40%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariusWenk&repo=Scientific-Programming-Python" style="width:50%"/>
   </a>
 <div>
