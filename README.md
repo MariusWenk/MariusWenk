@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ## Science
 <div style="display:flex;flex-direction:row;overflow-y:scroll;">
-  <a href="https://github.com/MariusWenk/Transient-Properties-Copper_BSc-Thesis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariusWenk&repo=Transient-Properties-Copper_BSc-Thesis" style="width:48%"/>
+  <a href="https://github.com/MariusWenk/Transient-Properties-Copper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariusWenk&repo=Transient-Properties-Copper" style="width:48%"/>
   </a>
 <div>
 
